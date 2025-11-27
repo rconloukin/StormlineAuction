@@ -9,7 +9,7 @@
 
 StormlineAuction is a decentralized auction system where **the tier with the fewest bidders wins** — creating a fascinating strategic paradox at the heart of game theory. All bids are encrypted on-chain using FHE technology, ensuring complete privacy until settlement.
 
-🔗 **[Live Demo](https://stormlineauction-md9jfik96-songsus-projects.vercel.app)** | 📺 **[Demo Video](https://stormlineauction-md9jfik96-songsus-projects.vercel.app/how-to-play)**
+🔗 **[Live Demo](https://stormlineauction.vercel.app/)** | 📺 **[Demo Video](https://stormlineauction.vercel.app/how-to-play)**
 
 ---
 
@@ -1027,7 +1027,7 @@ SOFTWARE.
 
 ## 🔗 Links
 
-- **Live Demo**: [https://stormlineauction-md9jfik96-songsus-projects.vercel.app](https://stormlineauction-md9jfik96-songsus-projects.vercel.app)
+- **Live Demo**: [https://stormlineauction.vercel.app](https://stormlineauction.vercel.app)
 - **Zama Documentation**: [https://docs.zama.ai/fhevm](https://docs.zama.ai/fhevm)
 - **Hardhat**: [https://hardhat.org](https://hardhat.org)
 - **Sepolia Faucet**: [https://sepoliafaucet.com](https://sepoliafaucet.com)
